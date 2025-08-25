@@ -24,3 +24,6 @@ A secure **web-based portal** developed for Rashtriya Ispat Nigam Limited (RINL)
 1. Clone the repo:
    ```bash
    git clone https://github.com/anu9903/suggestion_scheme.git
+2. Import the `database/suggestions.sql` file into MySQL using phpMyAdmin.
+
+
